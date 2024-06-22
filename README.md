@@ -13,7 +13,7 @@ Trabajo en el Centro Matemáticas Computaciones Ecuatoriano (CMCEC), donde ofrec
 Fuera del trabajo, me apasiona el fútbol y viajar, actividades que me inspiran y enriquecen. 
 
 ## Contenido
-* [Proyectos](#proyectos)
+* [Proyectos](#sobre-mi)
 * [Intereses](#intereses)
 * [Tecnologías y Herramientas](#tecnologías-y-herramientas)
 * [Estadísticas de GitHub](#estadísticas-de-github)
